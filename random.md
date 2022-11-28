@@ -1,3 +1,12 @@
+## 2022/11/29 
+
+| 완료 여부 | 난이도 | 번호 | 문제 이름 |
+|:---------:|:------:|:----:|:---------:|
+|<ul><li>[X] </li></ul>| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [21313](https://www.acmicpc.net/problem/21313) | [문어](https://www.acmicpc.net/problem/21313) |
+|<ul><li>[X] </li></ul>| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [12101](https://www.acmicpc.net/problem/12101) | [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101) |
+|<ul><li>[ ] </li></ul>| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15723](https://www.acmicpc.net/problem/15723) | [n단 논법](https://www.acmicpc.net/problem/15723) |
+|<ul><li>[ ] </li></ul>| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [17780](https://www.acmicpc.net/problem/17780) | [새로운 게임](https://www.acmicpc.net/problem/17780) |
+
 ## 2022/11/28 
 
 | 완료 여부 | 난이도 | 번호 | 문제 이름 |
