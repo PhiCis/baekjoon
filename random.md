@@ -9,12 +9,12 @@
 
 ## 2022/11/27 
 
-| 난이도 | 번호 | 문제 이름 |
-|:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2745](https://www.acmicpc.net/problem/2745) | [진법 변환](https://www.acmicpc.net/problem/2745) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [20152](https://www.acmicpc.net/problem/20152) | [Game Addiction](https://www.acmicpc.net/problem/20152) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [22871](https://www.acmicpc.net/problem/22871) | [징검다리 건너기 (large)](https://www.acmicpc.net/problem/22871) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [2213](https://www.acmicpc.net/problem/2213) | [트리의 독립집합](https://www.acmicpc.net/problem/2213) |
+| 완료 여부 | 난이도 | 번호 | 문제 이름 |
+|:---------:|:------:|:----:|:---------:|
+|<ul><li>[X] </li></ul>| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2745](https://www.acmicpc.net/problem/2745) | [진법 변환](https://www.acmicpc.net/problem/2745) |
+|<ul><li>[X] </li></ul>| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [20152](https://www.acmicpc.net/problem/20152) | [Game Addiction](https://www.acmicpc.net/problem/20152) |
+|<ul><li>[ ] </li></ul>| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [22871](https://www.acmicpc.net/problem/22871) | [징검다리 건너기 (large)](https://www.acmicpc.net/problem/22871) |
+|<ul><li>[ ] </li></ul>| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [2213](https://www.acmicpc.net/problem/2213) | [트리의 독립집합](https://www.acmicpc.net/problem/2213) |
 
 ## 2022/11/26 
 
